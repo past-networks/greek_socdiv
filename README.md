@@ -1,11 +1,10 @@
 # Economic diversity and labour specialization in the Roman East
 
+## About
 This repository aims to explore the occupational diversity and labour specialization in Greek inscriptions as part of the Past Social Network project.
 
 ## Authors
 * Petra Hermankova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540)
-* [Name], [ORCID], [Institution], [email]
-* [Name], [ORCID], [Institution], [email]
 * [Name], [ORCID], [Institution], [email]
 
 ## License
@@ -19,7 +18,9 @@ CC-BY-SA 4.0, see attached License.md
 
 1. Dataset of Greek inscriptions (GI) aggregated from I.PHI https://zenodo.org/record/7185509 (details TBA)
 
+## Scripts
 
+TBA
 
 
 
