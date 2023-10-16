@@ -1,14 +1,21 @@
-# Economic diversity and labour specialization in the Roman East
+# Economic diversity and labour specialization in the (Greek speaking) Roman East 
 
 ## About
 This repository aims to explore the occupational diversity and labour specialization in Greek inscriptions as part of the Past Social Network project.
 
 ## Authors
 * Petra Hermankova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540)
-* [Name], [ORCID], [Institution], [email]
+* Matteo Mazzamurro [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0004-4454-1551), PSN, Aarhus University
+* Tom Brughmans [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-1589-7768), PSN, Aarhus University
+* [Name], [ORCID], [Institution], 
+* [Name], [ORCID], [Institution]
+* [Name], [ORCID], [Institution]
+
+## Funding
+*The Past Social Networks Projects* is funded by The Carlsberg Foundation’s Young Researcher Fellowship (CF21-0382) in 2022-2026. 
 
 ## License
-CC-BY-SA 4.0, see attached License.md
+CC-BY-SA 4.0, see attached [License](./License.md)
 
 ## Data
 
@@ -19,8 +26,24 @@ CC-BY-SA 4.0, see attached License.md
 1. Dataset of Greek inscriptions (GI) aggregated from I.PHI https://zenodo.org/record/7185509 (details TBA)
 
 ## Scripts
+[Describe what individual scripts do, provide links to them, and order them in a sequence they should run. Point to any issues or specific settings people should be aware of.]
 
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+
+
+## DOI
 TBA
+
+## How to cite us
+TBA
+
+---
+
+<img src="./img/PSN_logo.png" alt="PSNP logo" style="width:300px;height:auto;" align="left">
+<img src="./img/aulogo_uk_var2_blue.png" alt="Aarhus University logo" style="width:300px;auto;"align="right">
+<img src="./img/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" alt="Carlsberg Foundation logo" style="width:300px;height:auto;"align="center" >
+
 
 
 
